@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "1",
+    "Brand": "BMW",
+    "IsAvailable": "True",
+    "Price": "400",
+    "Year": "2555"
+  },
+  {
+    "Id": "2",
+    "Brand": "BMW",
+    "IsAvailable": "True",
+    "Price": "400",
+    "Year": "2008"
+  },
+  {
+    "Id": "3",
+    "Brand": "Audi",
+    "IsAvailable": "True",
+    "Price": "400.2",
+    "Year": "2008"
+  }
+]
